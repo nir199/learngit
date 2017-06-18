@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 set new file
+=======
+create new file
+>>>>>>> Stashed changes
 edit in mac
 
